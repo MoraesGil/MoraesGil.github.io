@@ -1,0 +1,35 @@
+# Gilberto Moraes — Senior Full-Stack Engineer
+
+> This page is the interactive resume of Gilberto Moraes, a Senior Full-Stack Engineer based in São Paulo, Brazil.
+
+## Key Facts
+
+- 10+ years shipping production software
+- 1.6k+ verified commits (Softo + Buildaz repos)
+- 403 PRs/MRs authored (GitHub + GitLab)
+- 100M+ app installs on projects I owned solo
+
+## Contact
+
+- Email: moraesdev@gmail.com
+- LinkedIn: https://linkedin.com/in/moraesgil
+- GitHub: https://github.com/MoraesGil
+- Schedule a call: https://calendly.com/moraesdev/call-15
+
+## Full Resume
+
+- Interactive page: this URL
+- Markdown resume: ./resume.md
+- PDF download: ./gilberto-moraes-resume.pdf
+
+## Skills Summary
+
+TypeScript, React, Next.js, React Native, Node.js, Vue.js, NestJS, FastAPI, PHP/Laravel,
+PostgreSQL, pgvector, GraphQL, Docker, CI/CD, AWS, Azure, Firebase, AI agent orchestration,
+RAG pipelines, MCP, PydanticAI, LLM tooling, Jest, Vitest, Cypress, Storybook, TDD.
+
+## Current Position
+
+Buildaz (Dec 2023 – present) — Senior Full-Stack Engineer (Freelance)
+Clients: Kivvon, Sarstedt AG (8 countries), Krüger / Project Pelé
+519 commits · 207 PRs on GitHub
