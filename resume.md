@@ -17,9 +17,9 @@ Senior Full-Stack Engineer with 10+ years shipping production software. Proven r
 519 commits · 207 PRs
 
 Production frontends for international clients:
-- **Kivvon** (Dec 2023 – Apr 2024) — news app
-- **Sarstedt AG** (Nov 2024 – Apr 2026) — e-commerce platform, 8 countries
-- **Krüger / Project Pelé** (Jun 2026 – present) — ontology-aware knowledge-graph bidding platform
+- **[Kivvon](https://www.kivvon.com/en/company)** (Dec 2023 – Apr 2024) — news app
+- **[Sarstedt AG](https://www.sarstedt.com)** (Nov 2024 – Apr 2026) — e-commerce platform, 8 countries
+- **[Krüger Lidwig](https://www.krueger-group.com/en/)** (Jun 2026 – present) — ontology-aware knowledge-graph bidding platform
 
 ---
 
@@ -30,8 +30,8 @@ Production frontends for international clients:
 Internal tools and analytics at Indeed. React/TypeScript, design systems, micro-frontends, 72%+ test coverage.
 - **Hiring Events** (Oct 2021 – May 2022)
 - **Benchmark Tool** (May – Oct 2022)
-- **Betty / XML Testing** (Jun 2022 – Jun 2024)
-- **Curios / Smart Sourcing** (2024 – 2026)
+- **Betty / XML Testing** (Jun 2022 – Oct 2024)
+- **Curios / Smart Sourcing** (Oct 2024 – Apr 2026)
 
 ---
 
@@ -40,10 +40,10 @@ Internal tools and analytics at Indeed. React/TypeScript, design systems, micro-
 1165 commits · 4 products
 
 Sole engineer on Biosom (100M+ installs) — full payment stack, auth, mobile. Also CollaMap, FanHero, GreenAnt across PHP, React Native, Vue, NestJS.
-- **Biosom** (2020 – 2022) — 100M+ installs
-- **CollaMap** (2020 – 2021)
-- **FanHero** (2021)
-- **GreenAnt** (2020 – 2021)
+- **[Biosom](https://www.biosom.com.br/)** (2020 – 2022) — 100M+ installs
+- **[CollaMap](https://sof.to/portfolio/collamap)** (2020 – 2021)
+- **[FanHero](https://fanhero.com/)** (Mar – Oct 2021)
+- **[GreenAnt](https://www.greenant.com.br/)** (2020 – 2021)
 
 ---
 
@@ -101,4 +101,4 @@ Interrupted after a motorcycle accident, resumed, and completed.
 ---
 
 *PDF version: [gilberto-moraes-resume.pdf](./gilberto-moraes-resume.pdf)*
-*Schedule a call: [calendly.com/moraesdev/call-15](https://calendly.com/moraesdev/call-15)*
+*Schedule a call: [calendly.com/moraesdev/gilberto-moraes-kickoff](https://calendly.com/moraesdev/gilberto-moraes-kickoff)*

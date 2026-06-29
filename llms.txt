@@ -14,7 +14,7 @@
 - Email: moraesdev@gmail.com
 - LinkedIn: https://linkedin.com/in/moraesgil
 - GitHub: https://github.com/MoraesGil
-- Schedule a call: https://calendly.com/moraesdev/call-15
+- Schedule a call: https://calendly.com/moraesdev/gilberto-moraes-kickoff
 
 ## Full Resume
 
@@ -31,5 +31,5 @@ RAG pipelines, MCP, PydanticAI, LLM tooling, Jest, Vitest, Cypress, Storybook, T
 ## Current Position
 
 Buildaz (Dec 2023 – present) — Senior Full-Stack Engineer (Freelance)
-Clients: Kivvon, Sarstedt AG (8 countries), Krüger / Project Pelé
+Clients: Kivvon, Sarstedt AG (8 countries), Krüger Lidwig
 519 commits · 207 PRs on GitHub
