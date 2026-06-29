@@ -19,7 +19,7 @@ Senior Full-Stack Engineer with 10+ years shipping production software. Proven r
 Production frontends for international clients:
 - **[Kivvon](https://www.kivvon.com/en/company)** (Dec 2023 – Apr 2024) — news app
 - **[Sarstedt AG](https://www.sarstedt.com)** (Nov 2024 – Apr 2026) — e-commerce platform, 8 countries
-- **[Krüger Lidwig](https://www.krueger-group.com/en/)** (Jun 2026 – present) — ontology-aware knowledge-graph bidding platform
+- **[Lidwig Krüger Group](https://www.krueger-group.com/en/)** (Jun 2026 – present) — ontology-aware knowledge-graph bidding platform
 
 ---
 

@@ -31,5 +31,5 @@ RAG pipelines, MCP, PydanticAI, LLM tooling, Jest, Vitest, Cypress, Storybook, T
 ## Current Position
 
 Buildaz (Dec 2023 – present) — Senior Full-Stack Engineer (Freelance)
-Clients: Kivvon, Sarstedt AG (8 countries), Krüger Lidwig
+Clients: Kivvon, Sarstedt AG (8 countries), Lidwig Krüger Group
 519 commits · 207 PRs on GitHub
