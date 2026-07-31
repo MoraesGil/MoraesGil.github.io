@@ -1,1 +1,1 @@
-Build automático — fonte em MoraesGil/moraesdev_resume (privado).
+Build publicado manualmente — fonte em MoraesGil/moraesdev_resume (privado).

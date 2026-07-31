@@ -1,8 +1,24 @@
 <!doctype html>
-<html lang="en">
+<!-- data-theme seleciona o theme pack; `chocolate-dark` é o default (ticket 045
+     — substitui o pack roxo `resume`, aposentado). O script inline abaixo roda
+     antes de qualquer paint e só troca para `chocolate` se o visitante já
+     tiver escolhido claro antes (localStorage) — sem isso o toggle do header
+     piscaria escuro por um frame a cada reload. Migra o valor legado `resume`
+     salvo por quem visitou antes do ticket 045 para o novo default. -->
+<html lang="en" data-theme="chocolate-dark">
   <head>
+    <script>
+      (function () {
+        var saved = localStorage.getItem('theme')
+        if (saved === 'resume') {
+          saved = 'chocolate-dark'
+          localStorage.setItem('theme', saved)
+        }
+        if (saved === 'chocolate') document.documentElement.setAttribute('data-theme', 'chocolate')
+      })()
+    </script>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <title>Gilberto Moraes — Senior Frontend Engineer | Software Engineer</title>
@@ -35,7 +51,7 @@
       "@type": "Person",
       "name": "Gilberto Moraes",
       "jobTitle": "Senior Frontend Engineer",
-      "email": "moraesdev@gmail.com",
+      "email": "contact@moraesdev.io",
       "url": "https://resume.moraesdev.io/",
       "sameAs": [
         "https://linkedin.com/in/moraesgil",
@@ -69,18 +85,15 @@
     </script>
 
     <!-- LLM-readable resume link -->
-    <link rel="alternate" type="text/markdown" href="./resume.md" title="Gilberto Moraes — Resume (Markdown)" />
+    <link rel="alternate" type="text/markdown" href="/resume.md" title="Gilberto Moraes — Resume (Markdown)" />
 
-    <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-VGE8R0N1TE"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-VGE8R0N1TE');
-    </script>
-    <script type="module" crossorigin src="./assets/index-a4_7MTrs.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-Rfbx3dkL.css">
+    <!-- O GA4 NÃO mora mais aqui (ticket 040; hard gate de docs/DECISOES.md §2).
+         Uma tag `<script src>` no HTML é uma requisição ao Google antes de o
+         visitante ter chance de responder — exatamente o que o gate proíbe.
+         Quem injeta o `gtag.js`, e só depois do aceite, é
+         `src/analytics/analytics.ts`, chamado por `src/main.tsx`. -->
+    <script type="module" crossorigin src="/assets/index-LHg_LVeV.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-BkoapE2Z.css">
   </head>
   <body>
     <div id="root"></div>
