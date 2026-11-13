@@ -9,7 +9,6 @@
 - 196 merge requests authored across 14 Indeed repositories
 - 55 teammate merge requests reviewed across the Indeed engagement
 - 100K+ lifetime Google Play installs for Hearing Guardian
-- 519 commits and 207 pull requests authored on Sarstedt
 
 ## Contact
 
@@ -31,11 +30,9 @@ Fastify, PostgreSQL, MariaDB, GraphQL, Docker, CI/CD, AWS, Azure, Firebase,
 PydanticAI, agent orchestration, guardrails, validation gates, MCP, Playwright,
 Jest, Vitest, Cypress, React Testing Library, and Storybook.
 
-## Most Recent Engagement
+## Selected experience
 
-Buildaz Group (Dec 2023 – Jul 2026) — Senior Software Engineer (Freelance)
-Clients: Kivvon, Carrefour, Mobility B2C, Sarstedt AG, and Lidwig Krüger Group
-Latest allocation: Senior Frontend Engineer at Krüger Group (Jun – Jul 2026)
+In All Media → Indeed.com (Oct 2021 – Apr 2026) — Frontend / Senior Frontend Engineer
 
 ## Availability
 

@@ -9,7 +9,7 @@ Senior Frontend Engineer and T-shaped Software Engineer with 10+ years of profes
 
 Deep expertise in React, TypeScript, frontend architecture, data-heavy applications, design systems, testing, accessibility, and product delivery, with hands-on experience across backend development, React Native, databases, Docker, cloud services, and developer tooling.
 
-Spent 4.5 years continuously allocated to Indeed.com across multiple frontend products and engineering teams, progressing into senior ownership of complex analytics and sourcing workflows. More recently, owned frontend architecture for a knowledge-graph-driven B2B platform and built practical AI-assisted engineering tooling using PydanticAI, guardrails, validation gates, observability, and human review.
+Spent 4.5 years continuously allocated to Indeed.com across multiple frontend products and engineering teams, progressing into senior ownership of complex analytics and sourcing workflows.
 
 Experienced working remotely with international teams, independently owning features from requirements and architecture through implementation, testing, review, and production delivery.
 
@@ -32,49 +32,6 @@ Experienced working remotely with international teams, independently owning feat
 **AI-Assisted Engineering:** PydanticAI, Agent Orchestration, Guardrails, Validation Gates, Human-in-the-Loop Workflows
 
 ## Professional Experience
-
-### Buildaz Group — Senior Software Engineer (Freelance)
-**Dec 2023 – Jul 2026 · Remote**
-
-Consulting relationship across five client engagements spanning frontend, mobile, architecture, and AI-assisted engineering.
-
-#### Krüger Group — Senior Frontend Engineer
-**Jun 2026 – Jul 2026**
-
-- Served as sole frontend engineer for a B2B knowledge platform, owning React and TypeScript implementation and frontend architecture.
-- Translated semantic knowledge-graph domain models and complex bidding workflows into production-grade user interfaces.
-- Built an internal AI-assisted code-review harness with a lightweight Kanban interface, database-backed PydanticAI orchestration, guardrails, execution limits, validation gates, observability, and human review.
-
-**Stack:** React, TypeScript, Vite, Tailwind CSS, Storybook, Vitest, Playwright, PydanticAI
-
-#### Sarstedt AG — Senior Frontend Engineer
-**Nov 2024 – Apr 2026**
-
-- Delivered an international B2B e-commerce platform serving eight European and US markets.
-- Authored **519 commits and 207 pull requests** over 17 months.
-- Built production features spanning certificate generation, ERP imports, international market launches, Stripe pricing and checkout, Algolia search, and product normalization.
-
-**Stack:** Next.js, React, TypeScript, commercetools, Stripe, Algolia, Azure
-
-#### Mobility B2C — Software Engineer
-**Aug 2024 – Nov 2024**
-
-- Served as sole engineer on a client allocation covering a B2C CMS and customer portal.
-- Worked across API integration, frontend delivery, planning, technical decisions, and direct client coordination.
-
-#### Carrefour — Technical Analyst / Mobile Engineer
-**Jun 2024 – Aug 2024**
-
-- Supported technical analysis and migration planning for a mobile prototype moving from Flutter to React Native.
-- Contributed to requirements analysis, architecture discussions, project discovery, and an initial React Native proof of concept.
-
-#### Kivvon — Senior Mobile Engineer
-**Dec 2023 – Apr 2024**
-
-- Worked within a four-developer React Native team on architecture, Android delivery, native setup, device testing, and sprint implementation.
-- Improved component boundaries and application state organization, significantly reducing duplication and cascading UI freezes.
-
-**Stack:** React Native, TypeScript, React Context, Android
 
 ### In All Media → Indeed.com — Frontend / Senior Frontend Engineer
 **Oct 2021 – Apr 2026 · Remote**
@@ -155,13 +112,12 @@ Continuously allocated to Indeed.com for **4.5 years** across Hiring Events, Bud
 
 - Developed and maintained websites and blogs using PHP, jQuery, HTML, CSS, and Bootstrap.
 
-## Concurrent Relationships
+## Career transitions
 
 - **May 2020 – Oct 2020:** Perfect Pay + Softo
 - **Oct 2021 – Jan 2022:** Softo + Indeed via In All Media
-- **Dec 2023 – Apr 2026:** Indeed via In All Media + Buildaz Group
 
-These were genuine concurrent relationships, not timeline errors or gaps.
+These brief handoffs covered closing one engagement while onboarding into the next.
 
 ## Education
 
