@@ -1,39 +1,7 @@
-# Gilberto Moraes — Senior Frontend Engineer | Software Engineer
+# Gilberto Moraes
 
-> Interactive resume for Gilberto Moraes, a Senior Frontend Engineer and T-shaped Software Engineer based in São Paulo, Brazil.
+Software engineer. This website is a minimal directory of public links.
 
-## Key Facts
-
-- 10+ years shipping production software
-- 4.5 years continuously allocated to Indeed.com through In All Media
-- 196 merge requests authored across 14 Indeed repositories
-- 55 teammate merge requests reviewed across the Indeed engagement
-- 100K+ lifetime Google Play installs for Hearing Guardian
-
-## Contact
-
-- Email: moraesdev@gmail.com
-- LinkedIn: https://linkedin.com/in/moraesgil
-- GitHub: https://github.com/MoraesGil
-- Schedule a call: https://calendly.com/moraesdev/gilberto-moraes-kickoff
-
-## Full Resume
-
-- Interactive page: this URL
-- Markdown resume: ./resume.md
-- PDF download: ./gilberto-moraes-resume.pdf
-
-## Skills Summary
-
-TypeScript, React, Next.js, React Native, Node.js, Vue.js, NestJS, PHP/Laravel,
-Fastify, PostgreSQL, MariaDB, GraphQL, Docker, CI/CD, AWS, Azure, Firebase,
-PydanticAI, agent orchestration, guardrails, validation gates, MCP, Playwright,
-Jest, Vitest, Cypress, React Testing Library, and Storybook.
-
-## Selected experience
-
-In All Media → Indeed.com (Oct 2021 – Apr 2026) — Frontend / Senior Frontend Engineer
-
-## Availability
-
-Open to remote Senior Frontend Engineer and Senior Software Engineer roles.
+- Experience and background: https://www.linkedin.com/in/moraesgil/
+- Book a kickoff: https://calendly.com/moraesdev/gilberto-moraes-kickoff
+- Code and projects: https://github.com/MoraesGil

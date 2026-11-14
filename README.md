@@ -1,1 +1,1 @@
-Build publicado manualmente — fonte em MoraesGil/moraesdev_resume (privado).
+Static English link page. Source: MoraesGil/moraesdev_resume (private).

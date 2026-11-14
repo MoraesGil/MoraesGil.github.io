@@ -1,101 +1,59 @@
 <!doctype html>
-<!-- data-theme seleciona o theme pack; `chocolate-dark` é o default (ticket 045
-     — substitui o pack roxo `resume`, aposentado). O script inline abaixo roda
-     antes de qualquer paint e só troca para `chocolate` se o visitante já
-     tiver escolhido claro antes (localStorage) — sem isso o toggle do header
-     piscaria escuro por um frame a cada reload. Migra o valor legado `resume`
-     salvo por quem visitou antes do ticket 045 para o novo default. -->
-<html lang="en" data-theme="chocolate-dark">
+<html lang="en">
   <head>
-    <script>
-      (function () {
-        var saved = localStorage.getItem('theme')
-        if (saved === 'resume') {
-          saved = 'chocolate-dark'
-          localStorage.setItem('theme', saved)
-        }
-        if (saved === 'chocolate') document.documentElement.setAttribute('data-theme', 'chocolate')
-      })()
-    </script>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-    <title>Gilberto Moraes — Senior Frontend Engineer | Software Engineer</title>
-    <meta name="description" content="Senior Frontend Engineer and Software Engineer with 10+ years building production systems and 4.5 years continuously allocated to Indeed.com. React, TypeScript, frontend architecture, testing, and AI-assisted engineering." />
-    <meta name="keywords" content="Senior Frontend Engineer, Senior Software Engineer, React, TypeScript, frontend architecture, design systems, testing, accessibility, Node.js, React Native, Brazil, São Paulo" />
-    <meta name="author" content="Gilberto Moraes" />
-    <meta name="robots" content="index, follow" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f5f8fc" />
+    <title>Gilberto Moraes | Software engineer</title>
+    <meta name="description" content="Software engineer. Explore my experience on LinkedIn, projects on GitHub, or book a kickoff to start a conversation." />
     <link rel="canonical" href="https://resume.moraesdev.io/" />
-
-    <!-- Open Graph -->
-    <meta property="og:type" content="profile" />
-    <meta property="og:title" content="Gilberto Moraes — Senior Frontend Engineer | Software Engineer" />
-    <meta property="og:description" content="10+ years building production systems. Deep expertise in React, TypeScript, frontend architecture, testing, and data-heavy product UI." />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Gilberto Moraes | Software engineer" />
+    <meta property="og:description" content="Experience on LinkedIn. Projects on GitHub. A first conversation over a kickoff." />
     <meta property="og:url" content="https://resume.moraesdev.io/" />
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:locale:alternate" content="pt_BR" />
-    <meta property="profile:first_name" content="Gilberto" />
-    <meta property="profile:last_name" content="Moraes" />
-    <meta property="profile:username" content="MoraesGil" />
-
-    <!-- Twitter Card -->
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="Gilberto Moraes — Senior Frontend Engineer | Software Engineer" />
-    <meta name="twitter:description" content="10+ years building production systems. React, TypeScript, frontend architecture, testing, and AI-assisted engineering." />
-
-    <!-- JSON-LD Person schema -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Person",
-      "name": "Gilberto Moraes",
-      "jobTitle": "Senior Frontend Engineer",
-      "email": "contact@moraesdev.io",
-      "url": "https://resume.moraesdev.io/",
-      "sameAs": [
-        "https://linkedin.com/in/moraesgil",
-        "https://github.com/MoraesGil"
-      ],
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "São Paulo",
-        "addressCountry": "BR"
-      },
-      "knowsAbout": [
-        "TypeScript", "React", "Next.js", "React Native", "Node.js", "Vue.js",
-        "NestJS", "Fastify", "PHP", "Laravel", "PostgreSQL", "GraphQL",
-        "Docker", "CI/CD", "AWS", "Azure", "Frontend Architecture", "Design Systems",
-        "Accessibility", "PydanticAI", "AI Agent orchestration", "Guardrails", "MCP"
-      ],
-      "alumniOf": {
-        "@type": "CollegeOrUniversity",
-        "name": "Universidade do Oeste Paulista (UNOESTE)"
-      },
-      "hasOccupation": {
-        "@type": "Occupation",
-        "name": "Senior Frontend Engineer",
-        "skills": "React, TypeScript, frontend architecture, design systems, testing, accessibility, Node.js, React Native, AI-assisted engineering",
-        "occupationLocation": {
-          "@type": "Country",
-          "name": "Brazil"
-        }
-      }
-    }
-    </script>
-
-    <!-- LLM-readable resume link -->
-    <link rel="alternate" type="text/markdown" href="/resume.md" title="Gilberto Moraes — Resume (Markdown)" />
-
-    <!-- O GA4 NÃO mora mais aqui (ticket 040; hard gate de docs/DECISOES.md §2).
-         Uma tag `<script src>` no HTML é uma requisição ao Google antes de o
-         visitante ter chance de responder — exatamente o que o gate proíbe.
-         Quem injeta o `gtag.js`, e só depois do aceite, é
-         `src/analytics/analytics.ts`, chamado por `src/main.tsx`. -->
-    <script type="module" crossorigin src="/assets/index-Csz4L2Tg.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-CM8n9okf.css">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preload" href="/assets/geist-latin-wght-normal-BgDaEnEv.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="stylesheet" crossorigin href="/assets/index-Cj0WhwYx.css">
   </head>
   <body>
-    <div id="root"></div>
+    <div class="page-shell">
+      <header class="site-header">
+        <span class="wordmark">moraesdev<span class="wordmark-stop">.</span></span>
+      </header>
+      <main class="landing">
+        <section class="introduction" aria-labelledby="name">
+          <h1 id="name">Gilberto<br />Moraes<span class="name-stop">.</span></h1>
+          <p class="role">Software engineer</p>
+          <p class="introduction-copy">My experience and projects are on LinkedIn and GitHub. Book a kickoff to start a conversation.</p>
+        </section>
+        <nav class="destinations" aria-label="Connect with Gilberto">
+          <a class="destination" href="https://www.linkedin.com/in/moraesgil/">
+            <span class="destination-copy">
+              <span class="destination-title">LinkedIn</span>
+              <span class="destination-description">Experience &amp; background</span>
+            </span>
+            <span class="destination-arrow" aria-hidden="true"></span>
+          </a>
+          <a class="destination destination-primary" href="https://calendly.com/moraesdev/gilberto-moraes-kickoff">
+            <span class="destination-copy">
+              <span class="destination-title">Book a kickoff</span>
+              <span class="destination-description">A first conversation</span>
+            </span>
+            <span class="destination-arrow" aria-hidden="true"></span>
+          </a>
+          <a class="destination" href="https://github.com/MoraesGil">
+            <span class="destination-copy">
+              <span class="destination-title">GitHub</span>
+              <span class="destination-description">Code &amp; projects</span>
+            </span>
+            <span class="destination-arrow" aria-hidden="true"></span>
+          </a>
+        </nav>
+      </main>
+      <footer class="site-footer">
+        <span>&copy; 2026 Gilberto Moraes</span>
+      </footer>
+    </div>
   </body>
 </html>
